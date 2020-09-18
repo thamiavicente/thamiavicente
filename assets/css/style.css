@@ -636,6 +636,10 @@ section .container {
   margin: 0 0 0 68px;
 }
 
+.contact .info-box address {
+  margin-bottom: 0;
+}
+
 .contact .info-box .social-links {
   margin: 5px 0 0 68px;
   display: flex;
@@ -654,7 +658,7 @@ section .container {
   color: #03ADDF;
 }
 
-.contact .php-email-form {
+/* .contact .php-email-form {
   padding: 30px;
   background: rgba(235, 235, 235, 0.08);
 }
@@ -785,4 +789,4 @@ section .container {
   100% {
     transform: rotate(360deg);
   }
-}
+} */
