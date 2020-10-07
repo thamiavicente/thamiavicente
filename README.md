@@ -1,6 +1,6 @@
 <img src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/git.gif">
  
-<a href="https://www.instagram.com/tavcodeart/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/insta.png"/></a>
+<a href="https://nifty-northcutt-219a62.netlify.app/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/home.png"/></a>
 <a href="https://www.linkedin.com/in/thamiavicente/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/linkedin.png"/></a>
 <a href="https://medium.com/@thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/medium.png"/></a>
 <a href="https://www.behance.net/thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/behance.png"/></a>
