@@ -8,13 +8,13 @@
 <a href="https://www.instagram.com/tavcodeart/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/insta.png"/></a>
 <br>
 <br>
-
+<br>
 ### Hi, I am Thami! 👋
 
 - 🔭 I’m currently looking for a job in development area
 - 🌱 I’m currently learning Front-End development
 - :octocat: To see my code, checkout the pins bellow
-
+<br>
 <center>
 <table>
   <tr>
