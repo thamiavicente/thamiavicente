@@ -11,8 +11,8 @@
 <br>
 ### Hi, I am Thami! 👋
 
-- 🔭 I’m currently looking for a job in development area
-- 🌱 I’m currently learning Front-End development
+- 🔭 I work at [Upper](https://www.upper.rocks/) 
+- 🌱 Currently I'm learning Front-End development
 - :octocat: To see my code, checkout the pins bellow
 <br>
 <center>
