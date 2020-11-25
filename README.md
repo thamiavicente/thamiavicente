@@ -10,7 +10,7 @@
 <br>
 <br>
 ### Hi, I am Thami! 👋
-- :octocat: To see my code, checkout the pins bellow
+#### :octocat: To see my code, checkout the pins bellow
 
 <p>I'm graduated in 🐔 publicity and advertising, but my experience is multidisciplinary. I've been involved with design, art, marketing and social media. But my real passion is to 🚀 program. I started studying programming by referral from a friend in 2019 and since then I have never stopped. Being very curious, I always participate in lectures, workshops and courses. And it was in one of those talks that I met the group ☁️ Cloud Girls, which was the start of my career, opening my eyes to development and helping me to shape my professional identity.</p>
 
