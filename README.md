@@ -10,10 +10,11 @@
 <br>
 <br>
 ### Hi, I am Thami! 👋
-
-- 🔭 I work at [Upper](https://www.upper.rocks/) 
-- 🌱 Currently I'm learning Front-End development
 - :octocat: To see my code, checkout the pins bellow
+
+<p>I'm graduated in 🐔 publicity and advertising, but my experience is multidisciplinary. I've been involved with design, art, marketing and social media. But my real passion is to 🚀 program. I started studying programming by referral from a friend in 2019 and since then I have never stopped. Being very curious, I always participate in lectures, workshops and courses. And it was in one of those talks that I met the group ☁️ Cloud Girls, which was the start of my career, opening my eyes to development and helping me to shape my professional identity.</p>
+
+<p>Besides that, I am very communicative and always interact well with mine and other sectors, which helps me a lot in integrating the project as a whole. And as I am quite 👊 engaged with my work and curious, I end up being a person who learns easily and brings different solutions to projects. My personality appears a lot in my career and in my work, since my moments of rest are for my studies of 👩‍🎨 art, 👩‍💻 programming and of course, spending time with my pets. 😺😻😼</p>
 <br>
 <center>
 <table>
