@@ -19,8 +19,8 @@
 <center>
 <table>
   <tr>
-    <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=thamiavicente&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=111111&text_color=fafafa" /></td>
-      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiavicente&layout=compact&title_color=03ADDF&bg_color=111111&text_color=fafafa" /></td>
+    <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=thamiavicente&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
+      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiavicente&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
   </tr>   
 </table>
 </center>
