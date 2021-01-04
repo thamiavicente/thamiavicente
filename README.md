@@ -3,8 +3,8 @@
 <a href="https://thamiavicente.github.io/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/home.png"/></a>
 <a href="https://www.linkedin.com/in/thamiavicente/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/linkedin.png"/></a>
 <a href="https://medium.com/@thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/medium.png"/></a>
-<a href="https://www.behance.net/thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/behance.png"/></a>
-<a href="https://vimeo.com/thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/vimeo.png"/></a>
+<!-- <a href="https://www.behance.net/thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/behance.png"/></a>
+<a href="https://vimeo.com/thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/vimeo.png"/></a> -->
 <a href="https://www.instagram.com/tavcodeart/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/insta.png"/></a>
 <br>
 <br>
