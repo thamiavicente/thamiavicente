@@ -5,7 +5,7 @@
 <a href="https://medium.com/@thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/medium.png"/></a>
 <!-- <a href="https://www.behance.net/thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/behance.png"/></a>
 <a href="https://vimeo.com/thamiavicente"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/vimeo.png"/></a> -->
-<a href="https://www.instagram.com/tavcodeart/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/insta.png"/></a>
+<a href="https://www.instagram.com/arthamiavicente/"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/insta.png"/></a>
 <br>
 <br>
 <br>
