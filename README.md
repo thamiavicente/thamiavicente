@@ -1,6 +1,6 @@
 <img src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/git.gif">
  
-<a href="https://thamiavicente.github.io/" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/home.png"/></a>
+<a href="https://linktr.ee/thamiavicente" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/home.png"/></a>
 <a href="https://www.linkedin.com/in/thamiavicente/" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/linkedin.png"/></a>
 <a href="https://medium.com/@thamiavicente" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/medium.png"/></a>
 <!-- <a href="https://www.behance.net/thamiavicente" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/behance.png"/></a>
@@ -10,9 +10,9 @@
 <br>
 <br>
 
-### Hi, I am Thami! 👋
+# Hi, I am Thami! 👋
 
-#### :octocat: To see my projects, [click here](https://gist.github.com/thamiavicente/d24ec39d380896e03a22896ae4a55c8f).
+## :octocat: To see my projects, [click here](https://gist.github.com/thamiavicente/d24ec39d380896e03a22896ae4a55c8f).
 
 <p>I'm graduated in 🐔 publicity and advertising, but my experience is multidisciplinary. I've been involved with design, art, marketing and social media. But my real passion is to 🚀 program. I started studying programming by referral from a friend in 2019 and since then I have never stopped. Being very curious, I always participate in lectures, workshops and courses. And it was in one of those talks that I met the group ☁️ Cloud Girls, which was the start of my career, opening my eyes to development and helping me to shape my professional identity.</p>
 
