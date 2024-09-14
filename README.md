@@ -1,38 +1,61 @@
-<img src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/git.gif">
- 
-<a href="https://linktr.ee/thamiavicente" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/home.png"/></a>
-<a href="https://www.linkedin.com/in/thamiavicente/" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/linkedin.png"/></a>
-<a href="https://medium.com/@thamiavicente" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/medium.png"/></a>
-<!-- <a href="https://www.behance.net/thamiavicente" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/behance.png"/></a>
-<a href="https://vimeo.com/thamiavicente" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/vimeo.png"/></a> -->
-<!-- <a href="https://www.instagram.com/thamiartevicente/" target="_blank"><img align="left" src="https://github.com/thamiavicente/thamiavicente/blob/master/assets/img/insta.png"/></a> -->
-<br>
-<br>
-<br>
+<img src="./assets/img/git.gif">
 
 # Hi, I am Thami! :octocat:
-<table>
+
+<hr>
+<br>
+
+![Badge](https://img.shields.io/badge/pronouns-ela_/_ella_/_she_/_sie-8f2d56)
+![Badge](https://img.shields.io/badge/hobby-triathlon-4e148c)
+![Badge](https://img.shields.io/badge/location-são_paulo_|_brasil-104911)
+![Badge](https://img.shields.io/badge/mba-software_engineering-d62828)
+![Badge](https://img.shields.io/badge/graduation_in_progress-software_engineering-003049)
+
+<br>
+
+![Badge](https://img.shields.io/badge/language-gray?style=for-the-badge&logo=javascript)
+![Badge](https://img.shields.io/badge/framework-gray?style=for-the-badge&logo=vuedotjs)
+![Badge](https://img.shields.io/badge/Adobe_%20_Experience_%20_Manager-gray?style=for-the-badge&logo=adobe&logoColor=red)
+![Badge](https://img.shields.io/badge/a11y_|_web_accessibility-gray?style=for-the-badge)
+
+<br>
+<br>
+<table style="border-color: transparent">
   <tr>
-    <td><a href="https://gist.github.com/thamiavicente/d24ec39d380896e03a22896ae4a55c8f"><img src="https://gist.githubusercontent.com/thamiavicente/d24ec39d380896e03a22896ae4a55c8f/raw/16976e2b4226edae35aab835f60690f43f486696/projects.gif"/></a></td>
-    <td><a href="https://gist.github.com/thamiavicente/b82d6b1837e64e3003c042c9b454df1e"><img src="https://gist.githubusercontent.com/thamiavicente/b82d6b1837e64e3003c042c9b454df1e/raw/ee6c79b09b5d0bb7d0b54f89edca2ab9803f30eb/contact.gif"/></a></td>
+    <td style="border-color: transparent">
+      <a href="https://gist.github.com/thamiavicente/d24ec39d380896e03a22896ae4a55c8f">
+        <img src="https://gist.githubusercontent.com/thamiavicente/d24ec39d380896e03a22896ae4a55c8f/raw/16976e2b4226edae35aab835f60690f43f486696/projects.gif"/></a>
+    </td>
+    <td style="border-color: transparent" colspan="3">
+      <a href="https://gist.github.com/thamiavicente/b82d6b1837e64e3003c042c9b454df1e">
+        <img src="https://gist.githubusercontent.com/thamiavicente/b82d6b1837e64e3003c042c9b454df1e/raw/ee6c79b09b5d0bb7d0b54f89edca2ab9803f30eb/contact.gif"/></a>
+    </td>
   </tr>
  <tr>
-    <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=thamiavicente&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
-    <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiavicente&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
+    <td style="border-color: transparent" rowspan="3">
+      <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiavicente&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" />
+    </td>
+    <td style="border-color: transparent; padding-top: 26px">
+      <a href="https://linktr.ee/thamiavicente" target="_blank">
+        <span style="font-size: 26px;">&#127760;</span>
+        <span style="font-size: 22px; border-bottom: 1px solid #03addf; padding-bottom: 1px;">website</span>
+      </a>
+    </td>
+ </tr>
+ <tr>
+    <td style="border-color: transparent">
+      <a href="https://www.linkedin.com/in/thamiavicente/" target="_blank">
+        <span style="font-size: 26px;">&#x1F587;&#xFE0F;</span>
+        <span style="font-size: 22px; border-bottom: 1px solid #03addf; padding-bottom: 1px">linkedin</span>
+      </a>
+    </td>
+ </tr>
+  <tr>
+    <td style="border-color: transparent; padding-bottom: 26px">
+      <a href="https://medium.com/@thamiavicente" target="_blank">
+        <span style="font-size: 26px;">&#128221;</span>
+        <span style="font-size: 22px; border-bottom: 1px solid #03addf; padding-bottom: 1px;">medium: blog</span>
+      </a>
+    </td>
  </tr>
 </table>
-
-<!--
-**thamiavicente/thamiavicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
