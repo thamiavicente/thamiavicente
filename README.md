@@ -2,7 +2,6 @@
 
 # Hi, I am Thami! :octocat:
 
-<hr>
 <br>
 
 ![Badge](https://img.shields.io/badge/pronouns-ela_/_ella_/_she_/_sie-8f2d56)
