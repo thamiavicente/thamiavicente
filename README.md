@@ -4,9 +4,9 @@
 
 <br>
 
-![Badge](https://img.shields.io/badge/pronouns-ela_/_ella_/_she_/_sie-8f2d56)
+![Badge](https://img.shields.io/badge/pronouns-ela_/_she_/_zij-8f2d56)
 ![Badge](https://img.shields.io/badge/hobby-triathlon-4e148c)
-![Badge](https://img.shields.io/badge/location-são_paulo_|_brasil-104911)
+![Badge](https://img.shields.io/badge/location-veldhoven_|_netherland-104911)
 ![Badge](https://img.shields.io/badge/mba-software_engineering-d62828)
 ![Badge](https://img.shields.io/badge/graduation_in_progress-software_engineering-003049)
 
