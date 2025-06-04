@@ -1,4 +1,4 @@
-![Thami A. Vicente, Front-end Developer](./assets/img/hero-banner-bigger.png)
+![Thami A. Vicente, Front-end Developer](./assets/img/hero-banner.png)
 
 ![Badge](https://img.shields.io/badge/pronouns-ela_/_she_/_zij-a21626)&nbsp;&nbsp;
 ![Badge](https://img.shields.io/badge/mba-software_engineering-a21626)&nbsp;&nbsp;
