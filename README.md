@@ -1,4 +1,4 @@
-![Thami A. Vicente, Front-end Developer](./assets/img/hero-banner.png)
+![Thami A. Vicente, Front-end Developer](./assets/img/hero-banner-bigger.png)
 
 ![Badge](https://img.shields.io/badge/pronouns-ela_/_she_/_zij-a21626)&nbsp;&nbsp;
 ![Badge](https://img.shields.io/badge/mba-software_engineering-a21626)&nbsp;&nbsp;
@@ -35,4 +35,4 @@ a brazillian front-end developer based in Veldhoven. Over the past 4 years, I’
   </tr>
 </table>
 
-## :rocket: [website](https://thamiavicente-github-io.vercel.app) | :necktie: [Linkedin](https://www.linkedin.com/in/thamiavicente/) | :memo: [Medium](https://medium.com/@thamiavicente) | :email: [thamiavicente@gmail.com](mailto:thamiavicente@gmail.com)
+### :rocket: [website](https://thamiavicente-github-io.vercel.app) | :necktie: [Linkedin](https://www.linkedin.com/in/thamiavicente/) | :memo: [Medium](https://medium.com/@thamiavicente) | :email: [thamiavicente@gmail.com](mailto:thamiavicente@gmail.com)
