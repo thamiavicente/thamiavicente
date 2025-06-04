@@ -35,7 +35,7 @@
       <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiavicente&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" />
     </td>
     <td style="border-color: transparent; padding-top: 26px">
-      <a href="https://linktr.ee/thamiavicente" target="_blank">
+      <a href="https://thamiavicente-github-io.vercel.app" target="_blank">
         <span style="font-size: 26px;">&#127760;</span>
         <span style="font-size: 22px; border-bottom: 1px solid #03addf; padding-bottom: 1px;">website</span>
       </a>
