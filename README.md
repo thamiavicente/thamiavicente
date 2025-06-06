@@ -1,7 +1,7 @@
 ![Thami A. Vicente, Front-end Developer](./assets/img/hero-banner.png)
 
-![Badge](https://img.shields.io/badge/pronouns-ela_/_she_/_zij-a21626)&nbsp;&nbsp;
-![Badge](https://img.shields.io/badge/mba-software_engineering-a21626)&nbsp;&nbsp;
+![Badge](https://img.shields.io/badge/pronouns-ela_/_she_/_zij-a21626)
+![Badge](https://img.shields.io/badge/mba-software_engineering-a21626)
 ![Badge](https://img.shields.io/badge/graduation_in_progress-software_engineering-a21626)
 
 # Hi! I am Thami,
